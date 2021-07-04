@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "ES2015",
+        "target": "ES2015",
+        "strict": true
+        // "allowJs": true, // 允许编写js语法
+        // "noEmitOnError": true, // 错误不进行编译
+        // "noImplicitAny": true, // 不支持编译any类型
+    }
+}
